@@ -1,3 +1,5 @@
 Prueba git diff
 
 Añadido texto para trabajo en remoto con conflictos
+
+Segundo cambio para segundo tipo de conflicto
