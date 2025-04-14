@@ -1,3 +1,5 @@
 Prueba git diff
 
 Añadido texto para trabajo en remoto con conflictos
+
+Otro cambio diferente para crear conflicto con el local.
